@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhiledu
-- 👀 I’m interested in progressing Whatthedotitis software projects
+- 👀 I’m interested in progressing AI based software engineering projects
 - 🌱 I’m currently learning lots of different things
 - 💞️ I’m looking to collaborate on future projects for Whatthedotitis
 - 📫 How to reach me LinkedIn - https://www.linkedin.com/in/nikhiledu/
